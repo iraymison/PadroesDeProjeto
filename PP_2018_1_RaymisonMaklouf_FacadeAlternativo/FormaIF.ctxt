@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FormaIF
+comment0.text=\r\n\ Criar\ diversas\ formas\ atrav\u00E9s\ de\ um\ \u00FAnico\ m\u00E9todo,no\ caso\ a\ \r\n\ nossa\ interface\ "FormaIF"\ ter\u00E1\ nosso\ m\u00E9todo\ desenhar.\r\n\ \r\n\ @author\ Raymison\ Asthon\ Maklouf\ Ramos\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ desenhar()
+numComments=2

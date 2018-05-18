@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CriandoForma
+comment0.text=\r\n\ A\ classe\ CriandoForma\ conter\u00E1\ dois\ atributos\ privados,\ eles\r\n\ ser\u00E3o\ do\ tipo\ da\ interface,\ terei\ um\ construtor\ que\ vai\r\n\ instanciar\ um\ objeto\ da\ sua\ respectiva\ classe,\ meus\ atributos\r\n\ ser\u00E3o\ instanciados\ de\ acordo\ com\ as\ minhas\ formas\ poss\u00EDveis\r\n\ de\ serem\ criadas.\r\n\ \r\n\ @author\ Raymison\ Asthon\ Maklouf\ Ramos\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=CriandoForma()
+comment2.params=
+comment2.target=void\ criarHexagono()
+comment3.params=
+comment3.target=void\ criarQuadrilatero()
+numComments=4

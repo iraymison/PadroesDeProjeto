@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Quadrilatero
+comment0.text=\r\n\ Quadrilatero\ implementa\ a\ interface,\ mas\ ir\u00E1\ imprimir\ um\r\n\ quadrilater.\r\n\ \r\n\ @author\ Raymison\ Asthon\ Maklouf\ Ramos\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ desenhar()
+numComments=2

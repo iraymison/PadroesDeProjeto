@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Cliente
+comment0.text=\r\n\ Decidir\ qual\ objeto\ que\ quero\ criar,\ posso\ ficar\ criando\ formas\r\n\ diferentes\ a\ todo\ momento,\ nessa\ classe\ n\u00E3o\ h\u00E1\ necessidade\ de\r\n\ instanciar\ nenhuma\ classe\ que\ quero\ desenhar,\ pois\ isso\ fica\r\n\ dentro\ da\ classe\ "CriandoForma",\ ela\ \u00E9\ que\ vai\ gerenciar\ os\ \r\n\ objetos\ que\ ser\u00E3o\ criados\r\n\ \r\n\ @author\ Raymison\ Asthon\ Maklouf\ Ramos\ \r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

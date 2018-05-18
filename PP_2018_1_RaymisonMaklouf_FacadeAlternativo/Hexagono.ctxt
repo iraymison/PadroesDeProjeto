@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Hexagono
+comment0.text=\r\n\ Hexagono\ ir\u00E1\ implementar\ a\ interface,\ mas\ no\ caso\ ir\u00E1\ imprimir\r\n\ um\ hexagono,\ claro.\r\n\ \r\n\ @author\ Raymison\ Asthon\ Maklouf\ Ramos\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ desenhar()
+numComments=2
