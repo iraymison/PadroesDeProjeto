@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Genero
+comment0.text=\r\n\ Classe\ abstrata\ Genero\ -\ escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ aqui\r\n\ \r\n\ @author\ (seu\ nome\ aqui)\r\n\ @version\ (vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=java.lang.String\ exibirInfo()
+comment2.params=
+comment2.target=Genero\ clonar()
+comment3.params=
+comment3.target=java.lang.String\ getSexoBiologico()
+comment3.text=\r\n\ @return\ the\ sexoBiologico\r\n
+comment4.params=sexoBiologico
+comment4.target=void\ setSexoBiologico(java.lang.String)
+comment4.text=\r\n\ @param\ sexoBiologico\ the\ sexoBiologico\ to\ set\r\n
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Feminino
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Feminino\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=idGenero
+comment1.target=Feminino(Feminino)
+comment2.params=
+comment2.target=Feminino()
+comment3.params=
+comment3.target=java.lang.String\ exibirInfo()
+comment4.params=
+comment4.target=Genero\ clonar()
+numComments=5
